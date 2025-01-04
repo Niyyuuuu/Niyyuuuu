@@ -54,5 +54,5 @@ I’m passionate about creating innovative solutions and am eager to connect wit
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niyyuuuu&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Niyyuuuu's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Niyyuuuu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
