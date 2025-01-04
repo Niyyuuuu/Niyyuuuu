@@ -54,6 +54,5 @@ I’m passionate about creating innovative solutions and am eager to connect wit
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Niyyuuuu&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Niyyuuuu's GitHub Stats" />
 </div>
