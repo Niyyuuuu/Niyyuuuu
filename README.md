@@ -8,19 +8,19 @@
 
 <div align="center">
   <a href="https://www.instagram.com/niyyuuuu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="25" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/ghoniyyu-gama-manggala-59013b327/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="25" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo" />
   </a>
   <a href="https://x.com/Niyyuuuuu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="25" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo" />
   </a>
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -46,7 +46,7 @@ I’m passionate about creating innovative solutions and am eager to connect wit
 
 <div align="center">
   <!-- Icons Section -->
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,androidstudio,bash,bootstrap,c,cpp,cs,css,dotnet,figma,flutter,github,git,html,js,java,laravel,materialui,mysql,nodejs,php,py,react,sqlite,stackoverflow,tailwind,ts" height="40" alt="Tools and Languages" />
+  <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,androidstudio,bash,bootstrap,c,cpp,cs,css,dotnet,figma,flutter,github,git,html,js,java,laravel,materialui,mysql,nodejs,php,py,react,sqlite,stackoverflow,tailwind,ts" height="100" alt="Tools and Languages" />
 </div>
 
 ###
