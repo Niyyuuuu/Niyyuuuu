@@ -51,7 +51,7 @@ I’m passionate about creating innovative solutions and am eager to connect wit
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats </h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
