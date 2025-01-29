@@ -53,6 +53,7 @@ I’m passionate about creating innovative solutions and am eager to connect wit
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
+## 🔥 My Stats :
+
 [![GitHub Streak](https://ghstats.onuralpsezer.com?user=Niyyuuuu&theme=github-dark-blue&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Mon%2CTue&card_width=500)](https://git.io/streak-stats)
-</div>
+
