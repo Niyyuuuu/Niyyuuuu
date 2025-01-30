@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<div justify-content: center;">
+<div align: center;">
   <a href="https://www.instagram.com/niyyuuuu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="instagram logo" />
   </a>
