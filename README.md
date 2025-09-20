@@ -31,7 +31,7 @@
 
 <p align="left">
 👋 Hi, I’m Niyyuuuu from Indonesia.<br><br>
-🔭 I am currently a 12th-grade high school student specializing in Software Engineering.<br><br>
+🔭 I am currently a Bachelor’s degree student in Electrical Engineering at Diponegoro University.<br><br>
 📚 I’m focused on learning web development, including modern frameworks and best practices, to build dynamic and user-friendly applications.<br><br>
 ⚡ In my free time, I enjoy exploring new technologies, working on personal projects, and honing my coding skills to prepare for a career in technology.<br><br>
 I’m passionate about creating innovative solutions and am eager to connect with others in the tech community!
